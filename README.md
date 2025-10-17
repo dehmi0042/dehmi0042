@@ -12,9 +12,9 @@ My goal is to contribute to a **Security Operations Center (SOC)** as a **Tier 1
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com"> Home SOC Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com"> Home SOC Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/dehmi0042/Home-SOC-Lab.git"> Home SOC Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/dehmi0042/Home-SOC-Lab.git"> Home SOC Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/dehmi0042/Home-SOC-Lab.git"> Home SOC Lab</a>|
 
 ## Tools
 
@@ -40,4 +40,4 @@ My goal is to contribute to a **Security Operations Center (SOC)** as a **Tier 1
 </div>
 
 ## Projects
--  Home SOC Lab
+- <a href="https://github.com/dehmi0042/Home-SOC-Lab.git"> Home SOC Lab</a>
